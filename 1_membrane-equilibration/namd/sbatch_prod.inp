@@ -1,0 +1,15 @@
+sbatch step7.6_prod.sub
+sbatch step7.7_prod.sub
+sbatch step7.8_prod.sub
+sbatch step7.9_prod.sub
+sbatch step7.10_prod.sub
+sbatch step7.11_prod.sub
+sbatch step7.12_prod.sub
+sbatch step7.13_prod.sub
+sbatch step7.14_prod.sub
+sbatch step7.15_prod.sub
+sbatch step7.16_prod.sub
+sbatch step7.17_prod.sub
+sbatch step7.18_prod.sub
+sbatch step7.19_prod.sub
+sbatch step7.20_prod.sub

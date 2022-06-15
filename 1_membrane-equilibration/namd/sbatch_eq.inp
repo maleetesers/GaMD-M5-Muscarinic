@@ -1,0 +1,4 @@
+sbatch step6.7_eq.sub
+sbatch step6.8_eq.sub
+sbatch step6.9_eq.sub
+sbatch step6.10_eq.sub
